@@ -18,7 +18,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Juncan Personal Page # the main title
+title: Juncan_PersonalPage # the main title
 
 tagline: I want all things can be explained by data # it will display as the sub-title
 
@@ -32,7 +32,7 @@ github:
   username: juzh22ac # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: VolcZhang # change to your twitter username
 
 social:
   # Change to your full name.
